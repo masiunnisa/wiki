@@ -8,7 +8,7 @@ copyright_name: MIT
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://notenote.link.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
-
+exclude: ["_notes/bin/*"]
 # Build settings
 theme: null
 plugins:
