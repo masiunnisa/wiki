@@ -1,0 +1,53 @@
+<style>
+    .feed-title-excerpt-block .tags {
+        padding-left: 15px;
+        margin: 15px 0px 5px 0px;
+    }
+
+    .feed-title-excerpt-block .tag {
+        margin-right: 5px;
+        padding: 3px 8px;
+    }
+
+    .feed-title-excerpt-block .tag div {
+        padding-right: 5px;
+    }
+
+    .feed-title {
+        margin-top: 0px;
+    }
+</style>
+
+{%- if page.permalink == "/" -%}
+    {%- for item in site.notes -%}
+        {%- if item.show_landing -%}
+            <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+                <a href="{{item.url}}" style="text-decoration: none; color: #555555;">
+                    <ul class="tags">
+                        {%- if item.status == "Ongoing" or item.status == "ongoing" -%}
+                            <li class="tag">
+                                <div><b>Status:</b> {{item.status | capitalize }}</div>
+                            </li>
+                        {%- endif -%}
+                        {%- for tag in item.tags -%}
+                            <li class="tag">#{{tag}}</li>
+                        {%- endfor -%}
+                    </ul>
+                    <p class="feed-title">{{ item.title }}</p>
+                    <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100}}</p>
+                </a>
+            </div>
+        {%- endif -%}
+    {%- endfor -%}
+{%- endif -%}
+
+{%- if page.permalink == "/notes" -%}
+    {%- for item in site.notes -%}
+        <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+            <a href="{{item.url}}" style="text-decoration: none; color: #333333;">
+                <p class="feed-title">{{ item.title }}</p>
+                <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 100 }}</p>
+            </a>
+        </div>
+    {%- endfor -%}
+{%- endif -%}
