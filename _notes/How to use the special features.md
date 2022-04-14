@@ -3,7 +3,7 @@ title: How to use notenote.link features on your website
 season: summer
 tags: Theme
 toc: true
-comments: true
+show_landing: true
 ---
 
 ## The default features

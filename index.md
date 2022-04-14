@@ -6,3 +6,6 @@ layout: Post
 permalink: /
 ---
 
+
+# Welcome to Masi's wiki. This is the homepage
+
