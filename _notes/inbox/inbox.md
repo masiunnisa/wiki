@@ -3,6 +3,7 @@
 	- **assets**
 
 	- [[besmirch]]
+	- [[Cryptocurrency]]
 	- [[Git]]
 	- [[How to Take Smart Notes in Obsidian]]
 	- [[Merkle tree]]

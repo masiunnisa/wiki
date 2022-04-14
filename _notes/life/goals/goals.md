@@ -1,6 +1,8 @@
 ---
+
 title: goals
 kanban-plugin: basic
+
 ---
 
 ## Professional

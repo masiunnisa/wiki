@@ -1,12 +1,15 @@
 ---
+
 title: projects
 kanban-plugin: basic
 
 ---
 
- In Progress
+## Cryptocurrency
 
-- [ ] [[; Write the GMAT|Write the GMAT]]
+- [ ] what can i do?
+
+
 
 
 %% kanban:settings

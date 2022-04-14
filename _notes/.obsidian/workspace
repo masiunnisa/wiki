@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "86b953f196b9aeb7",
+    "id": "8332b834fcae9d80",
     "type": "split",
     "children": [
       {
-        "id": "a49290ae927f0f88",
+        "id": "eadcb1819b75fc2b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "journal/journal.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "594ad894322dd03d",
+    "id": "e2296fbbbc57e75d",
     "type": "split",
     "children": [
       {
-        "id": "ddddc635db7f8976",
+        "id": "15a57eee6e57301c",
         "type": "tabs",
         "children": [
           {
-            "id": "9d3488ce55fd676e",
+            "id": "052c9d05fabccba3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "90ac18f72108d941",
+            "id": "3b3369c4e3753f77",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "960043f5e7550d92",
+    "id": "c1bfb5b8881b55a2",
     "type": "split",
     "children": [
       {
-        "id": "72d29003c2d479c5",
+        "id": "14d3ae9a10a77a75",
         "type": "tabs",
         "children": [
           {
-            "id": "f4d5ddf5a24da879",
+            "id": "c47074ef8778e07f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journal/journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,14 +79,44 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "abb6cb79ac0519cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e47d64c8eb67c71",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "a49290ae927f0f88",
-  "lastOpenFiles": []
+  "active": "eadcb1819b75fc2b",
+  "lastOpenFiles": [
+    "journal/journal.md",
+    "journal/2022-04-15.md",
+    "journal/2022-04-14.md",
+    "bin/templates/daily.md",
+    "bin/templates/note.md",
+    "bin/templates/note topic.md",
+    "inbox/Cryptocurrency.md",
+    "bin/bin.md",
+    "archive/Git cache username and password.md",
+    "inbox/Git.md"
+  ]
 }

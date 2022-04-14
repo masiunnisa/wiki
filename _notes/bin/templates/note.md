@@ -1,8 +1,8 @@
 ---
-title: <% tp.file.title %>
+created: <%tp.date.now()%>
+title: <%tp.file.title%>
 tags:
   - note
-created: <% tp.date.now() %>
 ---
 
 <% tp.file.move("/inbox/" + tp.file.title) %>
