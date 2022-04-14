@@ -7,8 +7,12 @@
         "id": "eadcb1819b75fc2b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "resources/The Munger Network of Mental Models.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "resources/The Munger Network of Mental Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +108,7 @@
   },
   "active": "eadcb1819b75fc2b",
   "lastOpenFiles": [
+    "resources/The Munger Network of Mental Models.md",
     "index.md",
     "journal.md",
     "journal/2022-04-14.md",
@@ -111,7 +117,6 @@
     "bin/templates/daily.md",
     "bin/templates/note.md",
     "bin/templates/note topic.md",
-    "inbox/Cryptocurrency.md",
-    "bin/bin.md"
+    "inbox/Cryptocurrency.md"
   ]
 }
