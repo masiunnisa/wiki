@@ -6,7 +6,7 @@ created: 2022-04-16
 ---
 
 - Author: [[]]
-- Topic: [[]]
+- Topic: [[Cryptocurrency]]
 
 ***
 
