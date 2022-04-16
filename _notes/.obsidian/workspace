@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/Blockchain technology.md",
+            "file": "inbox/Blockchain technology.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Blockchain technology.md",
+                "file": "inbox/Blockchain technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "eadcb1819b75fc2b",
   "lastOpenFiles": [
-    "resources/Blockchain technology.md",
-    "resources/Cryptocurrency.md",
+    "inbox/Blockchain technology.md",
     "inbox/Cryptocurrency.md",
-    "archive/Git cache username and password.md",
-    "resources/The Scout Mindset.md",
-    "resources/The Norwegian Wood.md",
-    "resources/The Munger Network of Mental Models.md",
-    "resources/Julia Galef.md",
-    "resources/resources.md",
-    "life/goals/goals.md"
+    "inbox/Verbs.md",
+    "inbox/Nouns.md",
+    "inbox/new note.md",
+    "inbox/Merkle tree.md",
+    "inbox/inbox.md",
+    "inbox/How to Take Smart Notes in Obsidian.md",
+    "inbox/Git.md",
+    "inbox/besmirch.md"
   ]
 }
