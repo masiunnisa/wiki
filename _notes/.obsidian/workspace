@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/The Munger Network of Mental Models.md",
-            "mode": "source",
-            "source": false
+            "file": "resources/Blockchain technology.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/The Munger Network of Mental Models.md",
+                "file": "resources/Blockchain technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +103,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "eadcb1819b75fc2b",
   "lastOpenFiles": [
+    "resources/Blockchain technology.md",
+    "resources/Cryptocurrency.md",
+    "resources/The Scout Mindset.md",
+    "resources/The Norwegian Wood.md",
     "resources/The Munger Network of Mental Models.md",
-    "index.md",
-    "journal.md",
-    "journal/2022-04-14.md",
-    "journal/2022-04-15.md",
-    "journal/journal.md",
-    "bin/templates/daily.md",
-    "bin/templates/note.md",
-    "bin/templates/note topic.md",
-    "inbox/Cryptocurrency.md"
+    "resources/Julia Galef.md",
+    "resources/resources.md",
+    "life/goals/goals.md",
+    "journal/2022-04-16.md",
+    "journal/journal.md"
   ]
 }
