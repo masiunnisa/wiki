@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "inbox/Blockchain technology.md",
-            "mode": "source"
+            "mode": "source",
+            "backlinks": true
           }
         }
       }
@@ -109,14 +110,14 @@
   "active": "eadcb1819b75fc2b",
   "lastOpenFiles": [
     "inbox/Blockchain technology.md",
+    "inbox/consensus mechanism.md",
+    "inbox/DLT.md",
     "inbox/Cryptocurrency.md",
-    "inbox/Verbs.md",
-    "inbox/Nouns.md",
-    "inbox/new note.md",
-    "inbox/Merkle tree.md",
-    "inbox/inbox.md",
-    "inbox/How to Take Smart Notes in Obsidian.md",
+    "inbox/besmirch.md",
+    "inbox/Block.md",
     "inbox/Git.md",
-    "inbox/besmirch.md"
+    "inbox/How to Take Smart Notes in Obsidian.md",
+    "inbox/blockchain.png",
+    "journal/2022-04-18.md"
   ]
 }

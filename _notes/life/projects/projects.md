@@ -5,9 +5,6 @@ kanban-plugin: basic
 
 ---
 
-## Cryptocurrency
-
-- [ ] what can i do?
 
 
 

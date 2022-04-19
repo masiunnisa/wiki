@@ -1,11 +1,11 @@
 ---
 title: Cryptocurrency
+tags:
+  - Finance
 created: 2022-04-16
 ---
 
-- Topic: [[Cryptocurrency]]
-
 ***
 
--  Virtual or digit currency that works on [[blockchain technology]]
+-  Virtual or digit currency that works on [[Blockchain]]
 -  Decentralized and free from middlemen and third party interferences

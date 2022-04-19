@@ -7,4 +7,4 @@ created: <% tp.date.now() %>
 
 ***
 
-<% tp.file.move("/inbox/" + tp.file.title) %>besmirchplay
+<% tp.file.move("/inbox/" + tp.file.title) %>

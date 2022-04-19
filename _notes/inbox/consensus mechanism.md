@@ -1,0 +1,3 @@
+- A consensus mechanism refers to any number of methodologies used to achieve agreement, trust, and security across a decentralized computer network.
+-   In the context of blockchains and cryptocurrencies, proof-of-work (PoW) and proof-of-stake (PoS) are two of the most prevalent consensus mechanisms.
+-   When it comes to the blockchain's transaction sequencing, the consensus mechanism is a predetermined (cryptographic) validation procedure.

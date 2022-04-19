@@ -15,8 +15,7 @@ kanban-plugin: basic
 
 
 ## Knowledge
-
-
+- [ ] [[2022-04-16 - GMAT prep|MBA]]
 
 ## Life
 
