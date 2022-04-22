@@ -14,7 +14,7 @@ subheading: # subheading won't work without a tagline,
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: Notes, ideas, concepts related to IOI
+  name: Maktaba
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
@@ -24,7 +24,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An experiment to spark conversations and documentation
+  name: A digital garden
 copyright: 
   year: 2022
   msg: MIT License # This is a mandatory attribute for copyright to be displayed
@@ -36,14 +36,14 @@ user:
                 # or the site-wide settings.
   name: Masi's Wiki
   bio: 
-  email: asura@investinopen.org
+  email: masiunnisa@protonmail.com
   photo: /assets/img/profile.png
   alt_link: 
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
-    enabled: false  # turn this to true
+    enabled: true  # turn this to true
     twitter: 
-    github:  
+    github:  https://github.com/masiunnisa
     youtube:  
     linkedin:   
     twitch: 
