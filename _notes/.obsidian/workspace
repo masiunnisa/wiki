@@ -9,9 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/Blockchain technology.md",
+            "file": "inbox/Fiat money.md",
             "mode": "source",
-            "backlinks": true
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kuch toh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Blockchain technology.md",
+                "file": "inbox/Fiat money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +110,15 @@
   },
   "active": "eadcb1819b75fc2b",
   "lastOpenFiles": [
-    "inbox/Blockchain technology.md",
-    "inbox/consensus mechanism.md",
-    "inbox/DLT.md",
+    "inbox/Fiat money.md",
     "inbox/Cryptocurrency.md",
-    "inbox/besmirch.md",
+    "inbox/consensus mechanism.md",
+    "inbox/Blockchain technology.md",
     "inbox/Block.md",
-    "inbox/Git.md",
-    "inbox/How to Take Smart Notes in Obsidian.md",
-    "inbox/blockchain.png",
-    "journal/2022-04-18.md"
+    "inbox/besmirch.md",
+    "inbox/Blockchain.md",
+    "slipbox/Accounting is the language in which business results are reported..md",
+    "Obsidian integration.md",
+    "journal.md"
   ]
 }

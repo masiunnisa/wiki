@@ -14,7 +14,7 @@ subheading: # subheading won't work without a tagline,
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: Maktaba
+  name: Masi's Wiki
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
@@ -24,7 +24,7 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: A digital garden
+  name: digital garden
 copyright: 
   year: 2022
   msg: MIT License # This is a mandatory attribute for copyright to be displayed
@@ -34,7 +34,7 @@ user:
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: Masi's Wiki
+  name: 도서관
   bio: 
   email: masiunnisa@protonmail.com
   photo: /assets/img/profile.png
@@ -43,7 +43,7 @@ user:
           # particular social media account and it won't appear
     enabled: true  # turn this to true
     twitter: 
-    github:  https://github.com/masiunnisa
+    github:  masiunnisa
     youtube:  
     linkedin:   
     twitch: 
@@ -162,3 +162,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - _notes/bin/
+  - _notes/journal

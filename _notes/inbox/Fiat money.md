@@ -1,0 +1,11 @@
+---
+created: 2022-04-25
+title: Fiat money
+tags:
+  - note
+---
+
+<blockquote class="quoteback" darkmode="" data-title="" data-author="" cite="">
+<p><b>Fiat money</b>&nbsp;(from&nbsp;<a href="https://en.wikipedia.org/wiki/Latin_language" class="mw-redirect" title="Latin language" target="_blank" rel="noopener">Latin</a>:&nbsp;<i lang="la">fiat</i>,&nbsp;<span title="Latin-language romanization"><i lang="la-Latn">"let it be done"</i></span>) is a type of currency that is not backed by any commodity such as gold or silver, and typically declared by a&nbsp;<a href="https://en.wikipedia.org/wiki/Decree" title="Decree" target="_blank" rel="noopener">decree</a>&nbsp;from the government to be&nbsp;<a href="https://en.wikipedia.org/wiki/Legal_tender" title="Legal tender" target="_blank" rel="noopener">legal tender</a>. Throughout history, fiat money was sometimes issued by local banks and other institutions. In modern times, fiat money is generally established by government regulation.</p><p>Fiat generally money does not have intrinsic value and does not have&nbsp;<a href="https://en.wikipedia.org/wiki/Use_value" title="Use value" target="_blank" rel="noopener">use value</a>. It has value only because the individuals who use it as a unit of account or - in case of currency - a&nbsp;<a href="https://en.wikipedia.org/wiki/Medium_of_exchange" title="Medium of exchange" target="_blank" rel="noopener">medium of exchange</a>&nbsp;agree on its value.<sup id="cite_ref-1" class="reference"><a href="https://en.wikipedia.org/wiki/Fiat_money#cite_note-1" target="_blank" rel="noopener">[1]</a></sup>&nbsp;They trust that it will be accepted by merchants and other people.</p><div><br></div>
+<footer><cite> <a href=""></a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>

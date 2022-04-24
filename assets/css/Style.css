@@ -5,13 +5,18 @@ layout: Stylesheet
 @import "/assets/css/highlight.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
+@font-face {
+    font-family: "Noto Serif";
+    src: url(../fonts/Noto_Serif/NotoSerif-Regular.ttf);
+  }
+
 :root {
     --main-hue: 0;
     --primary-bg-color: hsl(var(--main-hue), 0%, 100%);
     --secondary-bg-color: hsl(var(--main-hue), 0%, 96.9%);
     --ternary-bg-color: hsl(var(--main-hue), 0%, 91.4%);
     --quaternary-bg-color: hsl(var(--main-hue), 0%, 93%);
-    --quinary-bg-color: hsl(var(--main-hue), 100%, 100%);
+    --quinary-bg-color: rgb(221, 217, 212);
 
     --primary-border-color: hsl(var(--main-hue), 0%, 96.9%);
     --secondary-border-color: hsl(var(--main-hue), 0%, 91.4%);
@@ -20,7 +25,7 @@ layout: Stylesheet
     --primary-box-shadow-color: hsl(var(--main-hue), 0%, 86.7%);
     --secondary-box-shadow-color: hsl(var(--main-hue), 0%, 81.2%);
 
-    --primary-text-color: hsl(var(--main-hue), 0%, 33.3%);
+    --primary-text-color: rgba(51, 40, 87, 0.904);
     --secondary-text-color: hsl(var(--main-hue), 0%, 53.3%);
     --tertiary-text-color: hsl(var(--main-hue), 0%, 43.4%);
 
@@ -30,7 +35,7 @@ layout: Stylesheet
     --search-placeholder-color: hsl(var(--main-hue), 0%, 60.0%);
     --searchbox-shadow-color:  hsl(204, 63.0%, 78.8%);
     --heading-font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    --primary-font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    --primary-font-family: 'Noto Serif';
     --secondary-font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 
     --main-font-size: 16px;
@@ -52,7 +57,7 @@ body {
     flex-direction: column;     
     justify-content: center;
     position: absolute;
-    top: 0px;  
+    top: 50px;  
     left: 0px;
     right: 0px;
     bottom: 0px;  
@@ -70,8 +75,8 @@ body {
     top: 0px;
 
     width: 75%;
-    font-size: var(--main-font-size);
-    font-family:  var(--primary-font-family);
+    font-size: 20px;
+    font-family: monospace;
 }
 
 header {
@@ -126,7 +131,7 @@ header {
     .site-heading-rtl > .main-page-tagline {
         color: var(--secondary-text-color);
         font-family:  var(--primary-font-family);
-        font-size: 0.7rem;
+        font-size: 1rem;
         font-weight: 600;
         margin-right: 20px;
         margin-top: -25px;
@@ -189,7 +194,7 @@ header {
     .avatar {
         position: absolute;
         top: 50px;
-        left: 10px;
+        left: 20px;
     }
     
     .avatar-link {    
@@ -352,7 +357,7 @@ blockquote {
         font-family: inherit;
         font-size: 15px;
         padding: 15px;
-        background-color: #f7f7f7;
+        background-color: #f7f7f7];
         border-radius: 5px;
         font-style: normal;
     }
@@ -435,14 +440,17 @@ hr {
     margin-top: -9px;
     font-size: 13px !important;
 }
+.social svg{
+    transform: scale(1.2);
 
+}
 .anchor-link {
     stroke: var(--anchor-link-color) !important;
 }
 
 .main-site-subheader {
     border-bottom: 1px solid var(--primary-border-color);
-    padding-left: 15px;
+    padding-left: 10px;
 }
 
 .menu {
@@ -571,7 +579,7 @@ hr {
 .search-icon {
     position: absolute;
     vertical-align: middle;
-    margin-top: -2px;
+    margin-top: -3px;
     padding-left: 20px;
     stroke: var(--secondary-text-color) !important;
     padding-top: 12.5px;
