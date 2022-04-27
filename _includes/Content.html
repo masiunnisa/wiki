@@ -190,7 +190,7 @@
                 {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-github"></i></sup></a>' -%}
             {%- elsif url == "highlight" -%}
                 {%- if site.preferences.highlighting.enabled -%}
-                    {%- assign color = '#DAEDFF' -%}
+                    {%- assign color = '#111' -%}
                     {%- if site.preferences.highlighting.color != nil and site.preferences.highlighting.color != empty and
                         site.preferences.highlighting.color != null -%}
                         {%- assign color = '#' | append: site.preferences.highlighting.color -%}

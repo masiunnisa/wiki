@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/Fiat money.md",
+            "file": "How to use the special features.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Fiat money.md",
+                "file": "How to use the special features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "eadcb1819b75fc2b",
   "lastOpenFiles": [
-    "inbox/Fiat money.md",
+    "How to use the special features.md",
+    "how-markdown-is-rendered.md",
+    "How-to-setup-this-site.md",
     "inbox/Cryptocurrency.md",
+    "inbox/Cryptography.md",
+    "inbox/European Central Bank (ECB).md",
+    "inbox/History of Cryptocurrency.md",
+    "inbox/node.md",
     "inbox/consensus mechanism.md",
-    "inbox/Blockchain technology.md",
-    "inbox/Block.md",
-    "inbox/besmirch.md",
-    "inbox/Blockchain.md",
-    "slipbox/Accounting is the language in which business results are reported..md",
-    "Obsidian integration.md",
-    "journal.md"
+    "inbox/besmirch.md"
   ]
 }

@@ -1,5 +1,4 @@
-
-3---
+---
 title: Blockchain
 created: 2022-04-16
 ---
@@ -11,7 +10,7 @@ created: 2022-04-16
 -   Chains of [[Block]] that contain the information regarding the transactions that have taken place.
 -   Distributed ledger technology [[DLT]] open to anyone
 -   uses [[Cryptography]] and other set of mathematical algorithms to create data structure.
--   suprisingly, it is very secure as once the data is entered it becomes very difficult to change which prevents any 
+-   suprisingly, it is very secure as once the data is entered it becomes very difficult to change which prevents any data manipulation
 
 ## How does blockchain work?
 - it requires a computer with perfectly installed software that are decentralized, with the copies of ledger distributed to each node 

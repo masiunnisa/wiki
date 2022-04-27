@@ -1,0 +1,1 @@
+- Information regarding token, token vs coins with reference to [[Bitcoin]] and [[Ethereum]] is [here](https://www.fool.com/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/crypto-tokens/#:~:text=Crypto%20tokens%20are%20digital%20assets,which%20are%20called%20smart%20contracts.)
